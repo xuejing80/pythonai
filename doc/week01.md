@@ -11,7 +11,8 @@
     4. 数据结构
 - 参考资料：
     1. [UC Berkeley CS188 Intro to AI](http://ai.berkeley.edu/home.html)
-    2. 人工智能：一种现代的方法（第三版）. by Stuart Russell & Peter Norvig
+    2. Artificial Intelligence: a Modern Approach, Third Edition. by Stuart Russell & Peter Norvig
+    3. 人工智能：一种现代的方法（第3版）. 殷建平，祝恩，刘越 等 译
 - 联系我们：
     1. Email：xuejing@njupt.edu.cn
     2. QQ群：10725430
