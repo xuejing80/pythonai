@@ -5,10 +5,10 @@
 - 本课程由南京邮电大学计算机学院薛景老师负责建设
 - 课时安排：36课时理论授课+12课时上机实验
 - 准备知识：
-    1. 高等数学（微积分）
-    2. 线性代数
+    1. [高等数学（微积分）](https://www.icourse163.org/course/NUDT-9004)
+    2. [线性代数](https://www.icourse163.org/course/NJUPT-1003270001)
     3. [Python语言程序设计](https://www.icourse163.org/course/NJUPT-1003215002)
-    4. 数据结构
+    4. [数据结构](https://www.icourse163.org/course/ZJU-93001)
 - 参考资料：
     1. [UC Berkeley CS188 Intro to AI](http://ai.berkeley.edu/home.html)
     2. Artificial Intelligence: a Modern Approach, Third Edition. by Stuart Russell & Peter Norvig
