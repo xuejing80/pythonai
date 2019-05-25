@@ -5,17 +5,17 @@
 - 本课程由南京邮电大学计算机学院薛景老师负责建设
 - 课时安排：36课时理论授课+12课时上机实验
 - 准备知识：
-    1. [高等数学（微积分）](https://www.icourse163.org/course/NUDT-9004)
-    2. [线性代数](https://www.icourse163.org/course/NJUPT-1003270001)
-    3. [Python语言程序设计](https://www.icourse163.org/course/NJUPT-1003215002)
-    4. [数据结构](https://www.icourse163.org/course/ZJU-93001)
+1. [高等数学（微积分）](https://www.icourse163.org/course/NUDT-9004)
+2. [线性代数](https://www.icourse163.org/course/NJUPT-1003270001)
+3. [Python语言程序设计](https://www.icourse163.org/course/NJUPT-1003215002)
+4. [数据结构](https://www.icourse163.org/course/ZJU-93001)
 - 参考资料：
-    1. [UC Berkeley CS188 Intro to AI](http://ai.berkeley.edu/home.html)
-    2. Artificial Intelligence: a Modern Approach, Third Edition. by Stuart Russell & Peter Norvig
-    3. 人工智能：一种现代的方法（第3版）. 殷建平，祝恩，刘越 等 译
+1. [UC Berkeley CS188 Intro to AI](http://ai.berkeley.edu/home.html)
+2. Artificial Intelligence: a Modern Approach, Third Edition. by Stuart Russell & Peter Norvig
+3. 人工智能：一种现代的方法（第3版）. 殷建平，祝恩，刘越 等 译
 - 联系我们：
-    1. Email：xuejing@njupt.edu.cn
-    2. QQ群：10725430
+1. Email：xuejing@njupt.edu.cn
+2. QQ群：10725430
 
 ## 现实中的AI应用（10分钟）
 
@@ -29,15 +29,15 @@
 ## 什么是人工智能（15分钟）
 
 - 制造一台能够实现以下4种不同目的机器的相关科学：
-    1. 像人一样思考：认知建模的途径
-    2. 像人一样行动：图灵测试的途径
-        - 由阿兰·图灵提出的图灵测试的设计旨在为智能提供一个令人满意的可操作的定义。如果一位人类询问者在提出一些书面问题以后不能区分书面回答来自人还是来自计算机，那么这台计算机就通过测试。
-        - 阿兰·图灵曾经对​机器是否可以思考给出定义：如果一台机器输出的内容和人类大脑思考后得到的内容别无二致的话，那么就可以认为这台机器在“思考”。
-    3. 合理地思考：“思维法则”途径
-    4. 合理地行动：合理Agent的途径
+1. 像人一样思考：认知建模的途径
+2. 像人一样行动：图灵测试的途径
+    - 由阿兰·图灵提出的图灵测试的设计旨在为智能提供一个令人满意的可操作的定义。如果一位人类询问者在提出一些书面问题以后不能区分书面回答来自人还是来自计算机，那么这台计算机就通过测试。
+    - 阿兰·图灵曾经对​机器是否可以思考给出定义：如果一台机器输出的内容和人类大脑思考后得到的内容别无二致的话，那么就可以认为这台机器在“思考”。
+3. 合理地思考：“思维法则”途径
+4. 合理地行动：合理Agent的途径
 - 为了更好地研究人工智能，科学家尝试理解人类大脑的工作方式：
-    1. 经验主义：通过对以往历史行为及其结果的分析，做出更加合理的决定
-    2. 知识推理：大量地掌握各种知识，通过推理分析，做出更加合理的决定
+1. 经验主义：通过对以往历史行为及其结果的分析，做出更加合理的决定
+2. 知识推理：大量地掌握各种知识，通过推理分析，做出更加合理的决定
 
 ## AI简史（10分钟）
 
